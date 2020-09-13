@@ -1,0 +1,218 @@
+Country,Population,Income Group,WHO_Regio
+Afghanistan,29117489,Low,EMR
+Albania,3169087,Middle,EUR
+Algeria,35422589,Middle,AFR
+Andorra,86685,High,EUR
+Angola,18992707,Middle,AFR
+Antigua and Barbuda,88550,Middle,AMR
+Argentina,40665732,Middle,AMR
+Armenia,3090379,Middle,EUR
+Australia,21511888,High,WPR
+Austria,8387491,High,EUR
+Azerbaijan,8933928,Middle,EUR
+Bahamas,345736,High,AMR
+Bahrain,807131,High,EMR
+Bangladesh,164425491,Low,SEAR
+Barbados,256552,High,AMR
+Belarus,9587940,Middle,EUR
+Belgium,10697588,High,EUR
+Belize,312928,Middle,AMR
+Benin,9211741,Low,AFR
+Bhutan,708484,Middle,SEAR
+Bolivia (Plurinational State of),10030832,Middle,AMR
+Bosnia and Herzegovina,3759633,Middle,EUR
+Botswana,1977569,Middle,AFR
+Brazil,195423252,Middle,AMR
+Brunei Darussalam,407045,High,WPR
+Bulgaria,7497282,Middle,EUR
+Burkina Faso,16286706,Low,AFR
+Burundi,8518862,Low,AFR
+Cambodia,15053112,Low,WPR
+Cameroon,19958351,Middle,AFR
+Canada,33889747,High,AMR
+Cape Verde,512582,Middle,AFR
+Central African Republic,4505945,Low,AFR
+Chad,11506130,Low,AFR
+Chile,17134708,Middle,AMR
+China,1361763412,Middle,WPR
+Colombia,46300196,Middle,AMR
+Comoros,691351,Low,AFR
+Congo,3758678,Middle,AFR
+Cook Islands,19933,Middle,WPR
+Costa Rica,4639827,Middle,AMR
+Côte d'Ivoire,21570746,Middle,AFR
+Croatia,4409659,High,EUR
+Cuba,11204351,Middle,AMR
+Cyprus,879723,High,EUR
+Czech Republic,10410786,High,EUR
+Democratic People's Republic of Korea,23990703,Low,SEAR
+Democratic Republic of the Congo,67827495,Low,AFR
+Denmark,5481283,High,EUR
+Djibouti,879053,Middle,EMR
+Dominica,66515,Middle,AMR
+Dominican Republic,10225482,Middle,AMR
+Ecuador,13774909,Middle,AMR
+Egypt,84474427,Middle,EMR
+El Salvador,6194126,Middle,AMR
+Equatorial Guinea,693385,High,AFR
+Eritrea,5223994,Low,AFR
+Estonia,1339459,High,EUR
+Ethiopia,84975606,Low,AFR
+Fiji,854098,Middle,WPR
+Finland,5345826,High,EUR
+France,62636580,High,EUR
+Gabon,1501266,Middle,AFR
+Gambia,1750732,Low,AFR
+Georgia,4219191,Middle,EUR
+Germany,82056775,High,EUR
+Ghana,24332755,Low,AFR
+Greece,11183393,High,EUR
+Grenada,104342,Middle,AMR
+Guatemala,14376881,Middle,AMR
+Guinea,10323755,Low,AFR
+Guinea-Bissau,1647380,Low,AFR
+Guyana,761442,Middle,AMR
+Haiti,10188175,Low,AMR
+Honduras,7615584,Middle,AMR
+Hungary,9973141,High,EUR
+Iceland,329279,High,EUR
+India,1214464312,Middle,SEAR
+Indonesia,232516771,Middle,SEAR
+Iran (Islamic Republic of),75077547,Middle,EMR
+Iraq,31466698,Middle,EMR
+Ireland,4589002,High,EUR
+Israel,7285033,High,EUR
+Italy,60097564,High,EUR
+Jamaica,2729909,Middle,AMR
+Japan,126995411,High,WPR
+Jordan,6472392,Middle,EMR
+Kazakhstan,15753460,Middle,EUR
+Kenya,40862900,Low,AFR
+Kiribati,99547,Middle,WPR
+Kuwait,3050744,High,EMR
+Kyrgyzstan,5550239,Low,EUR
+Lao People's Democratic Republic,6436093,Low,WPR
+Latvia,2240265,High,EUR
+Lebanon,4254583,Middle,EMR
+Lesotho,2084182,Middle,AFR
+Liberia,4101767,Low,AFR
+Libyan Arab Jamahiriya,6545619,Middle,EMR
+Lithuania,3255324,Middle,EUR
+Luxembourg,491772,High,EUR
+Madagascar,20146442,Low,AFR
+Malawi,15691784,Low,AFR
+Malaysia,27913990,Middle,WPR
+Maldives,313920,Middle,SEAR
+Mali,13323104,Low,AFR
+Malta,409999,High,EUR
+Marshall Islands,63398,Middle,WPR
+Mauritania,3365675,Low,AFR
+Mauritius,1296569,Middle,AFR
+Mexico,110645154,Middle,AMR
+Micronesia (Federated States of),111101,Middle,WPR
+Monaco,32904,High,EUR
+Mongolia,2701117,Middle,WPR
+Montenegro,625516,Middle,EUR
+Morocco,32381283,Middle,EMR
+Mozambique,23405670,Low,AFR
+Myanmar,50495672,Low,SEAR
+Namibia,2212037,Middle,AFR
+Nauru,10254,Middle,WPR
+Nepal,29852682,Low,SEAR
+Netherlands,16653346,High,EUR
+New Zealand,4303457,High,WPR
+Nicaragua,5822265,Middle,AMR
+Niger,15891482,Low,AFR
+Nigeria,158258917,Middle,AFR
+Niue,1438,Middle,WPR
+Norway,4855315,High,EUR
+Oman,2905114,High,EMR
+Pakistan,184753300,Middle,EMR
+Palau,20531,Middle,WPR
+Panama,3508475,Middle,AMR
+Papua New Guinea,6888387,Middle,WPR
+Paraguay,6459727,Middle,AMR
+Peru,29496120,Middle,AMR
+Philippines,93616853,Middle,WPR
+Poland,38038094,High,EUR
+Portugal,10732357,High,EUR
+Qatar,1508322,High,EMR
+Republic of Korea,48500717,High,WPR
+Republic of Moldova,3575574,Middle,EUR
+Romania,21190154,Middle,EUR
+Russian Federation,140366561,Middle,EUR
+Rwanda,10277212,Low,AFR
+Saint Kitts and Nevis,52368,Middle,AMR
+Saint Lucia,173942,Middle,AMR
+Saint Vincent and the Grenadines,109284,Middle,AMR
+Samoa,178943,Middle,WPR
+San Marino,31537,High,EUR
+Sao Tome and Principe,165397,Middle,AFR
+Saudi Arabia,26245969,High,EMR
+Senegal,12860717,Middle,AFR
+Serbia,9855857,Middle,EUR
+Seychelles,84600,Middle,AFR
+Sierra Leone,5835664,Low,AFR
+Singapore,4836691,High,WPR
+Slovakia,5411640,High,EUR
+Slovenia,2024912,High,EUR
+Solomon Islands,535699,Low,WPR
+Somalia,9358602,Low,EMR
+South Africa,50492408,Middle,AFR
+Spain,45316586,High,EUR
+Sri Lanka,20409946,Middle,SEAR
+Sudan,43192438,Middle,EMR
+Suriname,524345,Middle,AMR
+Swaziland,1201904,Middle,AFR
+Sweden,9293026,High,EUR
+Switzerland,7594561,High,EUR
+Syrian Arab Republic,22505091,Middle,EMR
+Tajikistan,7074845,Low,EUR
+Thailand,68139238,Middle,SEAR
+The former Yugoslav Republic of Macedonia,2043360,Middle,EUR
+Timor-Leste,1171163,Middle,SEAR
+Togo,6780030,Low,AFR
+Tonga,104260,Middle,WPR
+Trinidad and Tobago,1343725,High,AMR
+Tunisia,10373957,Middle,EMR
+Turkey,75705147,Middle,EUR
+Turkmenistan,5176502,Middle,EUR
+Tuvalu,9970,Middle,WPR
+Uganda,33796461,Low,AFR
+Ukraine,45433415,Middle,EUR
+United Arab Emirates,4707307,High,EMR
+United Kingdom of Great Britain and Northern Ireland,61899272,High,EUR
+United Republic of Tanzania,45039573,Low,AFR
+United States of America,317641087,High,AMR
+Uruguay,3372222,Middle,AMR
+Uzbekistan,27794296,Middle,EUR
+Vanuatu,245786,Middle,WPR
+Venezuela (Bolivarian Republic of),29043555,Middle,AMR
+Viet Nam,89028741,Middle,WPR
+West Bank and Gaza Strip,4146784,Middle,EMR
+Yemen,24255928,Middle,EMR
+Zambia,13257269,Low,AFR
+Zimbabwe,12644041,Low,AFR
+Bermuda,,,AMR
+Bolivia,,,AMR
+"Congo, Dem. Rep.",,,AFR
+"Congo, Rep.",,,AFR
+Cote d'Ivoire,,,AFR
+French Polynesia,,,WPR
+"Hong Kong, China",,,WPR
+"Korea, Dem. Rep.",,,WPR
+"Korea, Rep.",,,WPR
+"Macao, China",,,WPR
+Macedonia,,,EUR
+Moldova,,,EUR
+Netherlands Antilles,,,AMR
+New Caledonia,,,WPR
+Puerto Rico,,,AMR
+Russia,,,EUR
+Syria,,,EMR
+Taiwan,,,SEAR
+Tanzania,,,AFR
+United Kingdom,,,EUR
+Venezuela,,,AMR
+Vietnam,,,SEAR
+West Bank and Gaza,,,EMR
